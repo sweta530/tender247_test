@@ -1,0 +1,35 @@
+.user-detail-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .user-detail-container .header {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .user-detail-container .head {
+    margin: 0;
+  }
+
+  .user-detail-container .main-content {
+    width: 100%;
+    padding: 10px;
+  }
+  .user_detail-table {
+    width: 100%;
+    padding-left: 40px;
+  }
+  .user_detail-table td {
+    padding: 5px;
+  }
